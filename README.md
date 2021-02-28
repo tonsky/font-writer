@@ -1,12 +1,10 @@
 # Writer—Font for Long-Form Writing
 
-A version of [iA Writer Mono](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Mono) with increased letter-spacing and tuned weights.
+A version of [IBM Plex Mono](https://github.com/IBM/plex) with increased letter-spacing and tuned weights.
 
 Great fit for long-term writing.
 
 <img src="screenshot.png" width="780">
-
-If you like it, consider buying [iA Writer](https://ia.net/writer). It does a lot more for writing beyond just having great font.
 
 ## Installation
 
@@ -15,6 +13,10 @@ macOS: copy `*.ttf` to `~/Library/Fonts`
 Windows: copy `*.ttf` to `C:\Windows\Fonts`
 
 Linux: copy `*.ttf` to `~/.local/share/fonts/`, run `fc-cache -f`
+
+## Character alternatives
+
+<img src="stylistic sets.png" width="200">
 
 ## See also
 
@@ -29,8 +31,6 @@ Linux: copy `*.ttf` to `~/.local/share/fonts/`, run `fc-cache -f`
 ## Credits
 
 IBM Plex by [Bold Monday](https://boldmonday.com/).
-
-iA Writer Mono by [iA](https://ia.net/).
 
 Repackaged by [Niki Tonsky](https://twitter.com/nikitonsky).
 
