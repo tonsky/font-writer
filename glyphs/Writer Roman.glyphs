@@ -1,6 +1,9 @@
 {
-.appVersion = "3058";
+.appVersion = "3091";
 .formatVersion = 3;
+DisplayStrings = (
+"Ы"
+);
 axes = (
 {
 name = Weight;
@@ -33006,19 +33009,22 @@ unicode = 306;
 },
 {
 glyphname = IJacute;
-lastChange = "2021-02-28 21:21:34 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 ref = IJ;
 },
 {
+alignment = -1;
 pos = (-148,0);
 ref = acute.case;
 },
 {
+alignment = -1;
 pos = (188,0);
 ref = acute.case;
 }
@@ -33037,13 +33043,16 @@ width = 640;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 ref = IJ;
 },
 {
+alignment = -1;
 pos = (-142,0);
 ref = acute.case;
 },
 {
+alignment = -1;
 pos = (170,0);
 ref = acute.case;
 }
@@ -42407,7 +42416,7 @@ unicode = 1066;
 },
 {
 glyphname = uni042B;
-lastChange = "2021-02-28 18:55:49 +0000";
+lastChange = "2021-08-15 14:34:13 +0000";
 layers = (
 {
 anchors = (
@@ -42508,9 +42517,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(464,698,l),
-(592,698,l),
 (592,0,l),
+(592,698,l),
+(464,698,l),
 (464,0,l)
 );
 }
@@ -58121,12 +58130,13 @@ unicode = 731;
 {
 color = 4;
 glyphname = tildecomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = tilde;
 }
@@ -58145,6 +58155,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = tilde;
 }
@@ -58165,12 +58176,13 @@ unicode = 771;
 {
 color = 4;
 glyphname = macroncomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = macron;
 }
@@ -58189,6 +58201,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = macron;
 }
@@ -58209,12 +58222,13 @@ unicode = 772;
 {
 color = 4;
 glyphname = dotaccentcomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = dotaccent;
 }
@@ -58233,6 +58247,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = dotaccent;
 }
@@ -58253,12 +58268,13 @@ unicode = 775;
 {
 color = 4;
 glyphname = dieresiscomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = dieresis;
 }
@@ -58277,6 +58293,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = dieresis;
 }
@@ -58297,12 +58314,13 @@ unicode = 776;
 {
 color = 4;
 glyphname = hungarumlautcomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = hungarumlaut;
 }
@@ -58321,6 +58339,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = hungarumlaut;
 }
@@ -58341,12 +58360,13 @@ unicode = 779;
 {
 color = 4;
 glyphname = acutecomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = acute;
 }
@@ -58365,6 +58385,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = acute;
 }
@@ -58385,12 +58406,13 @@ unicode = 769;
 {
 color = 4;
 glyphname = gravecomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = grave;
 }
@@ -58409,6 +58431,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = grave;
 }
@@ -58429,12 +58452,13 @@ unicode = 768;
 {
 color = 4;
 glyphname = circumflexcomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = circumflex;
 }
@@ -58453,6 +58477,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = circumflex;
 }
@@ -58473,12 +58498,13 @@ unicode = 770;
 {
 color = 4;
 glyphname = caroncomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = caron;
 }
@@ -58497,6 +58523,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = caron;
 }
@@ -58517,12 +58544,13 @@ unicode = 780;
 {
 color = 4;
 glyphname = brevecomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = breve;
 }
@@ -58541,6 +58569,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = breve;
 }
@@ -58561,12 +58590,13 @@ unicode = 774;
 {
 color = 4;
 glyphname = ringcomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = ring;
 }
@@ -58585,6 +58615,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = ring;
 }
@@ -58815,12 +58846,13 @@ unicode = 795;
 {
 color = 4;
 glyphname = cedillacomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = cedilla;
 }
@@ -58839,6 +58871,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = cedilla;
 }
@@ -58983,12 +59016,13 @@ unicode = 806;
 {
 color = 4;
 glyphname = ogonekcomb;
-lastChange = "2021-02-28 21:21:04 +0000";
+lastChange = "2021-08-15 14:33:31 +0000";
 layers = (
 {
 layerId = master02;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = ogonek;
 }
@@ -59007,6 +59041,7 @@ width = 0;
 layerId = master03;
 shapes = (
 {
+alignment = -1;
 pos = (-320,0);
 ref = ogonek;
 }
